@@ -4,6 +4,8 @@
 
 Hello,  
 I would like to propose the following solution to extract and structure glossary data from PDFs. I believe this approach can address the challenges of misaligned definitions and irregular formatting while providing **results in seconds**.
+- get_glossary.ipynb file will help you to extract the required data from the PDFs and provide you with a CSV file
+- glossCSV.R file simply converts the generated CSV files into tidyverse dataframes for further processing
 
 ---
 
